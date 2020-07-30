@@ -64,7 +64,7 @@ class CollectionsTest {
         //
         // <--start
         final List<String> expected = new LinkedList<String>();
-        expected.add("Juliet");
+        expected.add("Amy");
         expected.add("Bob");
         expected.add("Carl");
         // --end-->
